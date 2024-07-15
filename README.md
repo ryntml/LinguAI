@@ -1,3 +1,3 @@
 #Acıkhack2024TDDİ
-.
+
 
