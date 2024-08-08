@@ -17,7 +17,9 @@ BURDA PROJE HAKKINDA BAHSEDECEĞİZ PROJENİN TANIMI
 ### Takım Üyeleri
 
 * Reyyan Temel : Takım Kaptanı. Gazi Üniversitesi Bilgisayar Mühendisliği 3. Sınıf Öğrencisi
+https://www.linkedin.com/in/reyyan-temel-845258219/
 * Osman Sefa Coşar : Takım Üyesi. Gazi Üniversitesi Bilgisayar Mühendisliği 3. Sınıf Öğrencisi
+
 * Kemal Faruk Talay : Takım Üyesi. Gazi Üniversitesi Kimya Mühendisliği 3. Sınıf Öğrencisi
 
 
@@ -37,6 +39,6 @@ This is an example of how to list things you need to use the software and how to
 
 ## İletişim
 
-Reyyan Temel : reyyantemel12@hotmail.com
-Osman Sefa Coşar : 
-Kemal Faruk Talay : 
+* Reyyan Temel : reyyantemel12@hotmail.com
+* Osman Sefa Coşar : 
+* Kemal Faruk Talay : 
